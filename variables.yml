@@ -2,7 +2,7 @@ STATE_RES_NAME: STATE_RES_NAME
 ec2_region: "us-east-2"
 ec2_instance_type: t2.micro
 ec2_image: ami-04a1a234ec5436840
-ec2_keypair: DevOps_Project
+ec2_keypair: my_pem_key
 ec2_volume_size: 8
 ec2_count: 1
 ec2_security_group_id: sg-07cca5c95ac502e94
