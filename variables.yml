@@ -1,0 +1,11 @@
+STATE_RES_NAME: STATE_RES_NAME
+ec2_region: "us-east-2"
+ec2_instance_type: t2.micro
+ec2_image: ami-04a1a234ec5436840
+ec2_keypair: DevOps_Project
+ec2_volume_size: 8
+ec2_count: 1
+ec2_security_group_id: sg-07cca5c95ac502e94
+ec2_subnet_id: subnet-e2f2f798
+ec2_tag_Type: iam:lead_devops
+ec2_tag_Role: lead_devops
